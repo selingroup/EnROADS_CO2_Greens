@@ -1,4 +1,4 @@
-# Green's Function approach to Temperature Response to CO$_2$ 
+# Green's Function approach to Temperature Response to CO2 
 
 ## Data storage
 
